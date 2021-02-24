@@ -1,0 +1,14 @@
+{
+  "records": [
+    {
+      "name": "Justin Tan",
+      "age": "24",
+      "weight": "125",
+      "height": "165",
+      "phone": "626 512 7800",
+      "address": "3456 winchester way",
+      "insurance": "PPO",
+      "id": 4
+    }
+  ]
+}
